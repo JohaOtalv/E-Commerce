@@ -1,0 +1,224 @@
+{
+  "productos": [
+    {
+      "id": 100,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/2/4/240.jpg",
+      "category": "Vegetables",
+      "description": "Papaya Maradol",
+      "lot": 1000,
+      "price": 4130
+    },
+    {
+      "id": 101,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/1/2/125.jpg",
+      "category": "Vegetables",
+      "description": "Banano Criollo",
+      "lot": 1000,
+      "price": 2810
+    },
+    {
+      "id": 102,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/1/0/106.jpg",
+      "category": "Vegetables",
+      "description": "Aguacate Papelillo",
+      "lot": 1000,
+      "price": 11120
+    },
+    {
+      "id": 103,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/1/2/12car.jpg",
+      "category": "Meats",
+      "description": "Tabla",
+      "lot": 1000,
+      "price": 32100
+    },
+    {
+      "id": 104,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/1/0/101car.jpg",
+      "category": "Meats",
+      "description": "Cañon de Cerdo",
+      "lot": 1000,
+      "price": 22340
+    },
+    {
+      "id": 105,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/1/1/115car.jpg",
+      "category": "Meats",
+      "description": "Costilla de Cerdo",
+      "lot": 1000,
+      "price": 22980
+    },
+    {
+      "id": 106,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702049001644.jpg",
+      "category": "Wines",
+      "description": "Aguardiente Antioqueño",
+      "lot": 1750,
+      "price": 70240
+    },
+    {
+      "id": 107,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/8/4/8410261206004.jpg",
+      "category": "Wines",
+      "description": "Vino Don Simon",
+      "lot": 750,
+      "price": 21100
+    },
+    {
+      "id": 108,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/5/0/5011013100156.jpg",
+      "category": "Wines",
+      "description": "Crema baileys",
+      "lot": 700,
+      "price": 76330
+    },
+    {
+      "id": 109,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/7/7/7702189011473.jpg",
+      "category": "Snacks",
+      "description": "Detodito Paketon",
+      "lot": 45,
+      "price": 16450
+    },
+    {
+      "id": 110,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/7/7/7702189051301.jpg",
+      "category": "Snacks",
+      "description": "Doritos Mega Queso",
+      "lot": 320,
+      "price": 11170
+    },
+    {
+      "id": 111,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702189056795.jpg",
+      "category": "Snacks",
+      "description": "Cheese Trix",
+      "lot": 80,
+      "price": 2900
+    },
+    {
+      "id": 112,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/7/7/7701101358641.jpg",
+      "category": "Frozen",
+      "description": "Chorizo de Ternera",
+      "lot": 1078,
+      "price": 29680
+    },
+    {
+      "id": 113,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/7/7/7701101245958.jpg",
+      "category": "Frozen",
+      "description": "Hamburgesa zenú",
+      "lot": 400,
+      "price": 15050
+    },
+    {
+      "id": 114,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7701101357682.jpg",
+      "category": "Frozen",
+      "description": "Salchicha Pietran",
+      "lot": 350,
+      "price": 18200
+    },
+    {
+      "id": 115,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/350x350/9df78eab33525d08d6e5fb8d27136e95/7/7/7703517853383.jpg",
+      "category": "Breakfast",
+      "description": "Tostada Susanita",
+      "lot": 125,
+      "price": 3230
+    },
+    {
+      "id": 116,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/7/7702025132652.jpg",
+      "category": "Breakfast",
+      "description": "Galletas Saltin Noel",
+      "lot": 524,
+      "price": 7740
+    },
+    {
+      "id": 117,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/8/4/8410376035407.jpg",
+      "category": "Breakfast",
+      "description": "Bizcochos Gullón",
+      "lot": 200,
+      "price": 6520
+    },
+    {
+      "id": 118,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702020050012.jpg",
+      "category": "Grocery",
+      "description": "Aceite de canola",
+      "lot": 3000,
+      "price": 57550
+    },
+    {
+      "id": 119,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/7/7702206010946.jpg",
+      "category": "Grocery",
+      "description": "Arroz Blanco Caribe",
+      "lot": 2500,
+      "price": 12430
+    },
+    {
+      "id": 120,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702511002933.jpg",
+      "category": "Grocery",
+      "description": "Arroz Blanco Caribe",
+      "lot": 500,
+      "price": 3940
+    },
+    {
+      "id": 121,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702354948559.jpg",
+      "category": "Beverages",
+      "description": "Agua Saborizada",
+      "lot": 540,
+      "price": 2050
+    },
+    {
+      "id": 122,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702090030839.jpg",
+      "category": "Beverages",
+      "description": "Mr tea Limón",
+      "lot": 1500,
+      "price": 3950
+    },
+    {
+      "id": 123,
+      "image": "https://vaquitaexpress.com.co/media/catalog/product/cache/1/small_image/700x700/9df78eab33525d08d6e5fb8d27136e95/7/7/7702090029505.jpg",
+      "category": "Beverages",
+      "description": "Colombiana Postobon",
+      "lot": 1500,
+      "price": 3950
+    },
+    {
+      "id": "35",
+      "image": "https://cdn.upsocl.com/wp-content/uploads/2021/05/00-coraje-elperrocobarde-creador-felicidad.jpg",
+      "description": "Coraje el perro Cobarde",
+      "category": "Caricatura",
+      "lot": "500",
+      "price": "80000000"
+    }
+  ],
+  "ordenes": [
+    {
+      "nombre": "ana",
+      "direccion": "cra 48",
+      "telefono": "310659",
+      "valor": 150000
+    },
+    {
+      "id": 25,
+      "nombre": "prueba",
+      "direccion": "sabaneta"
+    },
+    {
+      "nombre": "carlos",
+      "direccion": "Carrera 43 A # 63 sur - 120",
+      "telefono": "258",
+      "valor": 0,
+      "id": 26
+    }
+  ]
+}
